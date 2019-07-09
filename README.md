@@ -17,7 +17,7 @@
     - Adison Offerwall
     - Cashslide
     - Adison
-- [PLNC Technology](http://wwww.plnc.co.kr/) (2012.01 ~ 2016.12) - Developer
+- [PLNC Technology](http://www.plnc.co.kr/) (2012.01 ~ 2016.12) - Developer
     - SK Planet BMS
     - KICA OTCS
     - SK Planet IMC
