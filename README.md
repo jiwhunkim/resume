@@ -13,7 +13,7 @@
 ----
 
 ## Experience
-- [NBT](https://www.nbt.com/) (2017.03 ~ Current) - Software Engineer
+- [NBT](http://www.nbt.com/) (2017.03 ~ Current) - Software Engineer
     - Adison Offerwall
     - Cashslide
     - Adison
