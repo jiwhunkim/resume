@@ -13,16 +13,16 @@
 ----
 
 ## Experience
-- [NBT](http://www.nbt.com/) (2017.03 ~ Current) - Software Engineer
+- [NBT](http://www.nbt.com/){:target="_blank"} (2017.03 ~ Current) - Software Engineer
     - Adison Offerwall
     - Cashslide
     - Adison
-- [PLNC Technology](http://www.plnc.co.kr/) (2012.01 ~ 2016.12) - Developer
+- [PLNC Technology](http://www.plnc.co.kr/){:target="_blank"} (2012.01 ~ 2016.12) - Developer
     - SK Planet BMS
     - KICA OTCS
     - SK Planet IMC
     - SNUBH SmartBedsideStation
-- [Freegine](http://www.freegine.com/) (2009.01 ~ 2011.6)
+- [Freegine](http://www.freegine.com/){:target="_blank"} (2009.01 ~ 2011.6)
     - Union Steel 
 
 ----
@@ -30,7 +30,7 @@
 ## Education
 ### Degree
 - Seokyung University (2010.03 ~ 2017.02)
-  - BS in [Computer Science](https://cs.skuniv.ac.kr/)
+  - BS in [Computer Science](https://cs.skuniv.ac.kr/){:target="_blank"}
 
 ----
 
