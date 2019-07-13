@@ -56,16 +56,16 @@
     - SK T World Touch Service
         - html, css, javascript front-end develop
     - SNUBH Asset Tracking
-        - featue Develop on Spring Framework
+        - featue develop on spring framework
     - SNUBH m Health Device
-        - featue Develop on Spring Framework
+        - featue Develop on spring framework
     - SK Planet TDMS
-        - featue Develop on Spring Framework
+        - featue develop on spring framework
     - ING ITRMS
-        - featue Develop on Spring Framework
+        - featue develop on spring framework
     - SNUBH Smart Bedside Station
     - KT NFC Biz Mall
-        - featue Develop on Spring Framework
+        - featue develop on spring framework
     - KT SG-BEMS
         - html, css, javascript front-end develop
     - PLNC Here We R
