@@ -19,32 +19,92 @@
     - Adison Offerwall  
       - rubocop, rspec environment construction
       - code coverage 0% -> 80%  
-      - Tracking Solution associate  
-      - New Ad Type development  
-      - Admin Page improvement
-      - Block User Mangement develop   
+      - tracking solution associate  
+      - new ad type development  
+      - admin page improvement
+      - block user mangement develop   
     - Cashslide
-      - Tracking Solution associate  
-      - New Ad Type develop
-      - Some(Group Save Reward) feature develop
+      - tracking solution associate  
+      - new ad type develop
+      - some(group save reward) feature develop
     - Adison  
-      - Android Preload feature develop  
-      - Ad Frequency feature develop
-      - Amazon rds move to Galera Cluster For MySql 
-      - Galera Cluster For MySql to MySql based on amazon ec2
-      - Ad Serving filtering based on google adid feature develop
-      - Package filtering feature develop
-      - Report migration Apache Spark to Amazon Athena
-      - Cashslide lock screen ad associate
-      - Cashslide lock screen multi view ad associate 
+      - android sdk preload feature develop  
+      - advertisement frequency feature develop
+      - amazon rds move to galera cluster for mySql 
+      - galera cluster For mysql to mysql based on amazon ec2
+      - ad serving filtering based on google adid feature develop
+      - package filtering feature develop
+      - report migration from Apache Spark to Amazon Athena
+      - cashslide lock screen ad associate
+      - cashslide lock screen multi view ad associate 
 - [PLNC Technology](http://www.plnc.co.kr/) (2012.01 ~ 2016.12) - Developer
     - SK Planet BMS
+       - beacon advertisement management service feature develop 
     - KICA OTCS
+       - korea certificate 2.0 management service client-side develop 
     - SK Planet IMC
-    - SNUBH SmartBedsideStation
+       - featue Develop on Spring Framework
+       - buy receipt save okcashbag point reward service develop
+    - PLNC Lostless
+        - client-side develop
+    - KICA OTCS
+        - andorid client develop
+    - SK Planet New Tech Admin
+        - featue Develop on Spring Framework
+    - PLNC m Power Screen
+        - andorid client develop
+    - SK T World Touch Service
+        - html, css, javascript front-end develop
+    - SNUBH Asset Tracking
+        - featue Develop on Spring Framework
+    - SNUBH m Health Device
+        - featue Develop on Spring Framework
+    - SK Planet TDMS
+        - featue Develop on Spring Framework
+    - ING ITRMS
+        - featue Develop on Spring Framework
+    - SNUBH Smart Bedside Station
+    - KT NFC Biz Mall
+        - featue Develop on Spring Framework
+    - KT SG-BEMS
+        - html, css, javascript front-end develop
+    - PLNC Here We R
+        - android develop position
+        - marker display my location and group member on google map
+        - my route draw on google map
+        - group feature client side associate with server rest api
+    - KICOX E-Cluster
+        - featue Develop on Spring Framework
+- Freelancer (2011.07 ~ 2011.12)
+    - SKT Smart Wallet Royalty Program
+        - html, css, javascript front-end develop
+    - KT Smart Energy
+        - html, css, javascript front-end develop
 - [Freegine](http://www.freegine.com/) (2009.01 ~ 2011.6)
-    - Union Steel 
-
+    - Union Steel
+        - html, css, javascript front-end desktop/mobile develop
+    - I Love Milk
+        - html, css, javascript front-end develop
+    - Dairy
+        - html, css, javascript front-end develop
+    - Samsung Techwin
+        - html, css, javascript front-end develop
+    - Yongin University
+        - html, css, javascript front-end develop
+    - Korea NPQS
+        - html, css, javascript front-end develop
+    - KIPRA
+        - html, css, javascript front-end develop
+    - Hanwell Group
+        - html, css, javascript front-end develop
+    - Juvis
+        - html, css, javascript front-end develop
+    - NDC
+        - html, css, javascript front-end develop
+    - East Ship
+        - html, css, javascript front-end develop
+    - Family Net
+        - html, css, javascript front-end develop
 ----
 
 ## Education
