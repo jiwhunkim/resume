@@ -74,7 +74,7 @@
         - my route draw on google map
         - group feature client side associate with server rest api
     - KICOX E-Cluster
-        - featue Develop on Spring Framework
+        - featue Develop on spring framework
 - Freelancer (2011.07 ~ 2011.12)
     - SKT Smart Wallet Royalty Program
         - html, css, javascript front-end develop
