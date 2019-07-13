@@ -50,7 +50,7 @@
     - KICA OTCS
         - andorid client develop
     - SK Planet New Tech Admin
-        - featue Develop on Spring Framework
+        - featue develop on Spring Framework
     - PLNC m Power Screen
         - andorid client develop
     - SK T World Touch Service
