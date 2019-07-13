@@ -9,20 +9,40 @@
 
 ## Summary
 - Total 10 years and 3 months as a Software Engineer.
+- REST API with Spring Framework, Ruby On Rails
+- Create Service Android, Front-End, Back-End
 
 ----
 
 ## Experience
-- <a href="http://www.nbt.com/" target="_blank">NBT</a> (2017.03 ~ Current) - Software Engineer
-    - Adison Offerwall
+- [NBT](http://www.nbt.com/) (2017.03 ~ Current) - Software Engineer
+    - Adison Offerwall  
+      - rubocop, rspec environment construction
+      - code coverage 0% -> 80%  
+      - Tracking Solution associate  
+      - New Ad Type development  
+      - Admin Page improvement
+      - Block User Mangement develop   
     - Cashslide
-    - Adison
-- <a href="http://www.plnc.co.kr/" target="_blank">PLNC Technology</a> (2012.01 ~ 2016.12) - Developer
+      - Tracking Solution associate  
+      - New Ad Type develop
+      - Some(Group Save Reward) feature develop
+    - Adison  
+      - Android Preload feature develop  
+      - Ad Frequency feature develop
+      - Amazon rds move to Galera Cluster For MySql 
+      - Galera Cluster For MySql to MySql based on amazon ec2
+      - Ad Serving filtering based on google adid feature develop
+      - Package filtering feature develop
+      - Report migration Apache Spark to Amazon Athena
+      - Cashslide lock screen ad associate
+      - Cashslide lock screen multi view ad associate 
+- [PLNC Technology](http://www.plnc.co.kr/) (2012.01 ~ 2016.12) - Developer
     - SK Planet BMS
     - KICA OTCS
     - SK Planet IMC
     - SNUBH SmartBedsideStation
-- <a href="http://www.freegine.com/" target="_blank">Freegine</a> (2009.01 ~ 2011.6)
+- [Freegine](http://www.freegine.com/) (2009.01 ~ 2011.6)
     - Union Steel 
 
 ----
