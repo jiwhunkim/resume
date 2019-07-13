@@ -47,6 +47,8 @@
        - buy receipt save okcashbag point reward service develop
     - PLNC Lostless
         - client-side develop
+        - measure distance device to device using bluetooh frequency
+        - measure my location using accelerometer
     - KICA OTCS
         - andorid client develop
     - SK Planet New Tech Admin
@@ -74,7 +76,7 @@
         - my route draw on google map
         - group feature client side associate with server rest api
     - KICOX E-Cluster
-        - featue Develop on spring framework
+        - featue develop on spring framework
 - Freelancer (2011.07 ~ 2011.12)
     - SKT Smart Wallet Royalty Program
         - html, css, javascript front-end develop
